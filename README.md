@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SATHISH G</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Next.js Admin Dashboard**
+- 🔭 I’m currently working on **A Next.js SaaS application**
 
 - 🌱 I’m currently learning **Node.js and Database languages**
 
