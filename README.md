@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Next.js SaaS application**
 
-- 🌱 I’m currently learning **Node.js and Database languages**
+- 🌱 I’m currently learning **Java and Database languages**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
